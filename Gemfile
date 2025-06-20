@@ -87,7 +87,7 @@ group :test do
   gem "rails-controller-testing", "1.0.5"  # Helps test controllers
   gem "rspec-rails"  # RSpec testing framework
   gem "shoulda-matchers", "~> 5.0"  # Simplifies model testing
-  gem "sqlite3", "~> 2.2"
+  gem "sqlite3", "~> 2.7"
 end
 
 
