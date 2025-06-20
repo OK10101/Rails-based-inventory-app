@@ -46,7 +46,7 @@ gem "tzinfo-data", platforms: %i[windows jruby]
 # gem "image_processing", "~> 1.2"  # ActiveStorage image transformations
 
 # ✅ Internationalization for Devise
-gem "devise-i18n", "~> 1.12"  # Devise internationalization
+gem "devise-i18n", "~> 1.14"  # Devise internationalization
 
 # ✅ Bootstrap framework for styling
 gem "bootstrap", "~> 5.3.3"
